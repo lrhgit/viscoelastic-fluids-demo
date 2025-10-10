@@ -15,8 +15,7 @@ The notebook demonstrates:
 
 ## ▶️ Open in Google Colab
 Click to open directly in Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/notebooks/maxwell_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/maxwell_model.ipynb)
 
 ## Requirements
 ```bash
