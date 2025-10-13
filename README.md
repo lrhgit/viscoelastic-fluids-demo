@@ -9,6 +9,8 @@ They can be freely reused for teaching and learning purposes with appropriate at
 
 ---
 
+| Launch the full module | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/intro_viscoelasticity.ipynb) |
+
 | Notebook | Description | Open in Colab |
 |-----------|--------------|----------------|
 | **Maxwell Model** | Spring and dashpot in *series* – stress relaxation and unbounded creep | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/maxwell_model.ipynb) |
