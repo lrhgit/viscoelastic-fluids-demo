@@ -11,13 +11,7 @@ They can be freely reused for teaching and learning purposes with appropriate at
 
 | Launch the full module | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/intro_viscoelasticity.ipynb) |
 
-| Notebook | Description | Open in Colab |
-|-----------|--------------|----------------|
-| **Maxwell Model** | Spring and dashpot in *series* – stress relaxation and unbounded creep | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/maxwell_model.ipynb) |
-| **Kelvin–Voigt Model** | Spring and dashpot in *parallel* – bounded creep, no stress relaxation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/kelvin_voigt_model.ipynb) |
-| **Comparison** | Overlay of Maxwell and Kelvin–Voigt responses under identical conditions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/viscoelastic-fluids-demo/blob/main/comparison.ipynb) |
 
----
 
 ### Usage
 1. Click a **Colab badge** above to open the notebook in your browser.  
